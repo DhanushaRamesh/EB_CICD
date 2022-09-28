@@ -31,5 +31,8 @@ We will explore how to build a CICD pipeline and update the background colour a
  
 Note :- You can also add a manual approval before code deploy step - which should be reviewed and approved manually for the pipeline to trigger deployment.
 
+## Deployed Application :
+  1. Once the CICD pipeline succeeds, Navigate to Elastic Beanstalk console and access the same url of the created environment. Now you could see the changes done in the source code been deployed in the webpage.
+  <img width="901" alt="image" src="https://user-images.githubusercontent.com/48701982/192686330-46f2b2dd-87c2-4aa0-9d88-bb27d59379a1.png">
 
 
